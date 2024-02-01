@@ -1,9 +1,8 @@
 # Mystery_Sorting
 
-COT 6405 - Intro to Theory of Algorithms
-Spring 2023
-Project 1: Sorting Algorithms
-Due: March 8, 11:59 PM
+How to RUN:
+
+
 
 Project Description
  Sorting is used time and again in many day-to-day life activities. While brute force way to sort is easy to build and simple to apply in any situation, the cost of implementing brute force increases exponentially as the size and complexity of the data increases. So, in this project, you will implement various algorithms to efficiently sort a real-world dataset. In particular, you will be implementing 6 sorting algorithms namely Insertion sort, Selection sort, Quick sort, Heap sort, Shell sort, and Merge sort. And in addition, you will get to see how the time to compute differs for each algorithm. 
