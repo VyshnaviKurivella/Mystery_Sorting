@@ -14,6 +14,10 @@ StartYear – release year of the title/ start year of a series runtimeMinutes
 episodeNumber – episode number of tconst in the TV series primaryName – name by which the person is most often credited birthYear – in YYYY format deathYear – in YYYY format if applicable, else ‘\N’
 PrimaryProfession – top 3 professions of the person
 
+Output File:
+For the testcases in the code for the regular sorting algorithms, compare the output with the output from the file downloaded from the provided link and paste that in the sorting algorithms folder.
+Link: https://drive.google.com/file/d/1HrLTmi_1bjrtRMJtNvwxqym0SPZUsrDv/view?usp=sharing
+
 How to RUN:
 1. Download the dataset from the provided link.
 2. In the project folder, copy the code file and the dataset file.
